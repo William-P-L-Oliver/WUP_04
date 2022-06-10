@@ -78,6 +78,6 @@ This shows that there's a difference between the high school graduate and LT hig
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
 
-THe original guestion for this matter was 
+The original question for this matter was that the total number of tests and levels of DEGREES given by the WORDSUM couldn't be any different then one another. after commiting tests and using plots to access the data I came to the conclusion that this hypothesis was rendered null and not true. from the fact that the P-value being less than .5 to the graduates from high school and LT high school begin different from every other given variable.  
 
 
