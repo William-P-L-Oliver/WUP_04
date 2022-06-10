@@ -11,7 +11,7 @@ output:
 require(knitr)
 require(tidyverse)
 require(tigerstats)
-
+require(mosaic)
 ```
 
 # Introduction
@@ -49,6 +49,12 @@ The box plot portrays the average median of WORDSUM between Bachelors, high scho
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+
+```{r}
+favstats(WORDSUM~DEGREE,data=gssdataframe)
+```
+
+It would seem as though this table tells us that the median of the graduates is higher than that of the bachelor, and high school. showing the various difficulties of WORDSUM.    
 
 ## Inferential Results
 
